@@ -1,0 +1,48 @@
+a {
+     text-decoration: none;
+     color: var(--bely);
+     font-family: var(--font-family);
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 143%;
+     transition: 0.3s;
+}
+a:hover {
+     color: var(--dop-bely);
+     transition: 0.3s;
+}
+
+h1 {
+     font-family: var(--font-family);
+     font-weight: 700;
+     font-size: 64px;
+     line-height: 100%;
+     text-align: center;
+     color: var(--bely);
+}
+
+h2 {
+     font-family: var(--font-family);
+     font-weight: 700;
+     font-size: 64px;
+     line-height: 100%;
+     color: var(--bely);
+}
+
+h3 {
+     font-family: var(--font-family);
+     font-weight: 400;
+     font-size: 24px;
+     line-height: 128%;
+     color: var(--bely);
+}
+
+p {
+     font-family: var(--font-family);
+     font-weight: 300;
+     font-size: 18px;
+     line-height: 133%;
+     text-align: center;
+     color: var(--dop-bely);
+}
+
